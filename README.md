@@ -20,7 +20,7 @@ PostgreSQL | Excel
 ## 📈 Excel Analysis
 
 📄 Clique para abrir:
-[[Open Excel File]](https://1drv.ms/x/c/c165015d72636c93/IQAAH5Gebl4FSoLNomKlkjBQASsJH5Cm6j6w3WZHyRij0us?e=gRQkZZ&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0)
+[[Open Excel File]](https://1drv.ms/x/c/c165015d72636c93/IQAps0Gh26siTbVbe6U-jViYAbdvTzn8mX1esRK6VbbWvpA?e=QVtygT&nav=MTVfe0RFNDMyRjIyLTJBOTktNDU5Ni04RTk1LURDM0RBMDRDNTUwQ30)
 
 📷 Preview:
 
